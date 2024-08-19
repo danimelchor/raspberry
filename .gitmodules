@@ -1,0 +1,11 @@
+[submodule "traefik"]
+	path = traefik
+	url = git@github.com:danimelchor/raspberry-traefik.git
+
+[submodule "portainer"]
+	path = portainer
+	url = git@github.com:danimelchor/raspberry-portainer.git
+
+[submodule "pihole"]
+	path = pihole
+	url = git@github.com:danimelchor/raspberry-pihole.git
