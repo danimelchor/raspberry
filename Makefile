@@ -8,3 +8,7 @@ deploy-all:
 		cd $$folder && make deploy; \
 		cd ..; \
 	done
+
+pull:
+	git pull
+	git submodule update --init --recursive
