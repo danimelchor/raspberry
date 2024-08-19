@@ -9,3 +9,7 @@
 [submodule "pihole"]
 	path = pihole
 	url = git@github.com:danimelchor/raspberry-pihole.git
+
+[submodule "finances"]
+	path = finances
+	url = git@github.com:danimelchor/raspberry-finances.git
